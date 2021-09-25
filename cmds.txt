@@ -1,0 +1,8 @@
+Version de PHP 7.3.21
+Version de MYSQL 8.021
+Version Laravel 8.x (Master)
+
+php artisan migrate
+php artisan db:seed
+php artisan serve
+
